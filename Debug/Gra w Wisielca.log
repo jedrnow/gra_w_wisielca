@@ -1,0 +1,17 @@
+﻿  Gra w Wisielca.cpp
+  game.cpp
+C:\Users\jnvqw\source\repos\4f47a7db-gr04-repo\Projekt\Gra w Wisielca\game.cpp(121,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\jnvqw\source\repos\4f47a7db-gr04-repo\Projekt\Gra w Wisielca\game.cpp(136,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\jnvqw\source\repos\4f47a7db-gr04-repo\Projekt\Gra w Wisielca\game.cpp(179,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\jnvqw\source\repos\4f47a7db-gr04-repo\Projekt\Gra w Wisielca\game.cpp(187,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  start.cpp
+C:\Users\jnvqw\source\repos\4f47a7db-gr04-repo\Projekt\Gra w Wisielca\start.cpp(42,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  stats.cpp
+C:\Users\jnvqw\source\repos\4f47a7db-gr04-repo\Projekt\Gra w Wisielca\stats.cpp(34,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\jnvqw\source\repos\4f47a7db-gr04-repo\Projekt\Gra w Wisielca\stats.cpp(50,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\jnvqw\source\repos\4f47a7db-gr04-repo\Projekt\Gra w Wisielca\stats.cpp(60,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  words.cpp
+C:\Users\jnvqw\source\repos\4f47a7db-gr04-repo\Projekt\Gra w Wisielca\words.cpp(23,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\jnvqw\source\repos\4f47a7db-gr04-repo\Projekt\Gra w Wisielca\words.cpp(37,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Generowanie kodu...
+  Gra w Wisielca.vcxproj -> C:\Users\jnvqw\source\repos\4f47a7db-gr04-repo\Projekt\Gra w Wisielca\Debug\Gra w Wisielca.exe
